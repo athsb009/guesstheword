@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guessword/static/css/main.bcb9ad07.css",
+    "main.js": "/guessword/static/js/main.1c8fdcf3.js",
+    "static/js/787.e01666d6.chunk.js": "/guessword/static/js/787.e01666d6.chunk.js",
+    "static/media/wordle-bank.txt": "/guessword/static/media/wordle-bank.d1e180c0e95e817784be.txt",
+    "index.html": "/guessword/index.html",
+    "main.bcb9ad07.css.map": "/guessword/static/css/main.bcb9ad07.css.map",
+    "main.1c8fdcf3.js.map": "/guessword/static/js/main.1c8fdcf3.js.map",
+    "787.e01666d6.chunk.js.map": "/guessword/static/js/787.e01666d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb9ad07.css",
+    "static/js/main.1c8fdcf3.js"
+  ]
+}
